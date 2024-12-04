@@ -1,1 +1,1 @@
-# PAW_labs
+Projektowanie aplikacji webowych
